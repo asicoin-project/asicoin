@@ -28,9 +28,13 @@ Total coinbase outputs created, including the unspendable genesis 50: 21,233,949
 Therefore before the first halving: 10,721,900 ASICOIN will have been issued as spendable block subsidies.
 
 First halving is definitely block 210,240 then the following halvings:
+
 420,480 → 12.5 ASICOIN
+
 630,720 → 6.25 ASICOIN
+
 840,960 → 3.125 ASICOIN
+
 ...
 
 Difficulty retarget every 504 blocks.
