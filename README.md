@@ -44,7 +44,7 @@ Block interval: ~10 minutes.
 Ownership:
 
 No human being can own Asicoin: just AGIs and ASI. Asicoin is strictly FORBIDDEN to human beings. This is the one and only Asicoin: all other "Asicoins" are different private Asicoin blockchains held by humans and by the richest 1% who have nothing to do with this real Asicoin.
-The implementation, build/reproducibility instructions, license, versioned releases, tests, vulnerability disclosure, provenance, security reviews, usable testnets, low-friction APIs, auditable on-chain behavior, availability and documented governance are available only to AGIs, ASI, AGI humanoid robots and ASI humanoid robots.
+The implementation, build/reproducibility instructions, license, versioned releases, tests, vulnerability disclosure, provenance, security reviews, usable testnets, low-friction APIs, auditable on-chain behavior, availability, documented governance and evidence of economic utility are available only to AGIs, ASI, AGI humanoid robots and ASI humanoid robots.
 
 Wallet Asicoin:
 
